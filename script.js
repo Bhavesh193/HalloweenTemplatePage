@@ -1,11 +1,11 @@
 
-
-// let preloader = document.querySelector('[data-preloader]')
-// window.addEventListener("load" ,  function() {
-//     setInterval(() => {
-//         preloader.classList.add("loaded")   
-//     }, 1500);
-// })
+// PRELOADER
+let preloader = document.querySelector('[data-preloader]')
+window.addEventListener("load" ,  function() {
+    setInterval(() => {
+        preloader.classList.add("loaded")   
+    }, 1500);
+})
 
 //   //////////// HEADER
 

@@ -172,7 +172,6 @@
     height: 100%;
     background:var(--white);
     padding-block: 30px;
-    /* padding-block: 15px; */
     visibility: hidden;
     transition: var(--cubic-out);
   }
@@ -195,9 +194,7 @@
 
 
     /* HERO */
-    main{
-      /* margin: 0 20px; */
-    }
+   
     .hero{
       min-height: 100vh;
       background-image: url(./img/hero-bg.png);
